@@ -27,9 +27,9 @@
 
 body {
   min-height: 640px;
-  background: #eee;
-  color: #000;
-  font-size: 12px;
+  /*background: #eee;*/
+  /*color: #000;*/
+  /*font-size: 12px;*/
   margin: 0;
 }
 
@@ -87,9 +87,7 @@ h2,h3,h4 {
 }
 
 #nickbox {
-  border: 1px solid black;
-  display: inline;
-  padding: 5px;
+  background: #fff !important;
 }
 
 #canvas {
@@ -647,9 +645,9 @@ dfn {
   border-bottom: 1px dotted black;
 }
 
-#tweetbox {
-  float: right;
-}
+/*#tweetbox {*/
+/*  float: right;*/
+/*}*/
 
 .gamelink {
   cursor: pointer;
